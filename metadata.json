@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Id": "moe.minii.arewelazeryet",
+        "Name": "Are We Lazer Yet?",
+        "Description": "Displays the current state of arewelazeryet.chiffa.lol",
+        "Version": "1.0",
+        "Category": "System Information",
+        "Website": "https://github.com/minisbett/arewelazeryet-plasmoid",
+        "License": "GPL-3.0",
+        "Authors": [
+            {
+                "Name": "minisbett"
+            }
+        ]
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
