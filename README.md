@@ -5,6 +5,10 @@ A KDE Plasma widget for displaying:
 2. The user share percentage of the clients
 3. The delta of online users between the clients
 
+Preview:
+
+![](.github/assets/preview.png)
+
 ## Setup
 1. Clone the repository
 2. Navigate into the repository folder
